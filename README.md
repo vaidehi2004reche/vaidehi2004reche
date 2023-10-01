@@ -1,2 +1,3 @@
-- 👋 Hii I am VAIDEHI RECHE an AI student. I aspire to be an backend developer 
+- 👋 Hii I am VAIDEHI RECHE
+- Aspiring Backend Developer
 
