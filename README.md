@@ -1,5 +1,5 @@
 - 👋 Hii I am VAIDEHI RECHE
-- Aspiring Backend Developer
+- Aspiring Fullstack Developer
 
 About me 
  I am an Ai student 
